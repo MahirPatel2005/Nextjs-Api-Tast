@@ -1,6 +1,6 @@
 ## Postman Documentation Link: https://documenter.getpostman.com/view/39187601/2sB3HopzZw
 
-## Deployed Link : 
+## Deployed Link : https://nextjs-api-task-g2y8.onrender.com/
 
 
 
